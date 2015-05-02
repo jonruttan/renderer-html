@@ -1,6 +1,6 @@
-# HTML rendering support in Last Mate
+# HTML rendering support for Last Mate
 
-Adds syntax highlighting and snippets to HTML files in Atom.
+Rendering rules for HTML files in [Last Mate](https://github.com/jonruttan/last-mate).
 
 Based on [atom/language-html](https://github.com/atom/language-html), which was originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
 from the [HTML TextMate bundle](https://github.com/textmate/html.tmbundle).
