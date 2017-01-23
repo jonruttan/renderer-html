@@ -23,7 +23,7 @@ tags:
         replace: " "
       }
     ]
-  entities:
+  value:
     escape: [
       {
         pattern: "&"
